@@ -1,0 +1,12 @@
+.fast-control{
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 14px;
+  color: #666666;
+  padding-left: 155px;
+  padding-right: 155px;
+}
+
+.fast-control > h1{
+  font-size: 25px;
+}

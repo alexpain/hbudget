@@ -1,0 +1,65 @@
+footer{
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background: rgb(238,240,242);
+  height: 46px;
+  font-family: sans-serif;
+  color:#666;
+}
+
+.g{
+  margin-top: 5px;
+  margin-right: 10px;
+  float: right;
+  width: 36px;
+  height: 36px;
+}
+
+.facebook{
+  margin-top: 5px;
+  margin-right: 10px;
+  float: right;
+  width: 36px;
+  height: 36px;
+}
+.twitt{
+  margin-top: 5px;
+  margin-right: 155px;
+  float: right;
+  width: 36px;
+  height: 36px;
+}
+
+.facebook{
+  background: url("img/facebook.png");
+}
+
+.g{
+  background: url("img/g.png");
+}
+
+.twitt{
+  background: url("img/twitt.png");
+}
+
+.facebook:hover{
+  background: url("img/facebook_c.png");
+  cursor: pointer;
+}
+
+.g:hover{
+  background: url("img/g_c.png");
+  cursor: pointer;
+}
+
+.twitt:hover{
+  background: url("img/twitt_c.png");
+  cursor: pointer;
+}
+
+.social span{
+  float: left;
+  margin-top: 10px;
+  margin-left: 155px;
+}

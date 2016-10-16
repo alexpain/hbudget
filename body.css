@@ -1,0 +1,19 @@
+body{
+  margin: 0;
+  vertical-align: middle;
+  text-align: center;
+  height: 100%;
+  background: rgb(204,204,204);
+}
+.phones{
+  width: auto;
+}
+
+.phones img{
+  max-width: 50%;
+  min-width: 10%;
+}
+
+article{
+  background: #fff;
+}
