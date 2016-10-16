@@ -1,6 +1,5 @@
 header{
   position: absolute;
-  /*display: inline-block;*/
   background: rgba(255,255,255,0.6);
   margin: 0 auto;
   color: #666666;
@@ -96,6 +95,10 @@ header span:hover .sub-menu{
   color: #000;
   background-color: #fff;
   padding: 10px;
+}
+
+.sub-menu li:hover{
+  background: rgb(238,240,242);
 }
 
 .sub-menu li:first-child{
